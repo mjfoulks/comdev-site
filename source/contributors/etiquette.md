@@ -26,6 +26,7 @@ at Apache.  Below are some guidelines to help you communicate with other volunte
 
 **General Communication Guidelines**
 
+
   * Use a thoughtful, respectful tone to communicate your thoughts. Remember, text is difficult to interpret.  There are no body language or voice tones to help interpret the messenger's intent. Remember that the person on the other side of your communication is also a human deserving of understanding and 
 respect.  
   
